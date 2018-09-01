@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			<title>Craig Appleby - Web Developer</title>
+			<meta charset="UTF-8">
+			<meta name="description" content="This is my first web site">
+			<meta name="keywords" content="website, first, first website">
+			<meta name="author" content="Craig Appleby">
+			<!--Important for responsive web, when not using Bootstrap-->
+			<meta name="viewport content="width="device-width, initial-scale=1.0"/>
+			<link rel="stylesheet" href="style.css" />
+		</head>
+	<body>
+		<header id="main-header">
+			<h1>Craig Appleby - Web Developer</h1>
+		</header>
+	<main>
+		<section id="about-me">
+				<p>Hi, I'm Craig. I'm a Web Developer based in Peterborough UK. I'm currently looking for projects to help build my portfolio and to improve my HTML, CSS & Javascript skills.</p>
+				<p>If you're looking to get yourself online, or make changes to an exisiting website, I can help!</p>
+		</section>
+		<section id="home-page-menu">
+			<ul>
+				<li><a href="link">Portfolio</a></li>
+				<li><a href="link">Get in touch</a></li>
+			</ul>
+		</section>
+	</main>
+			<footer>© Copyright 2018</footer>
+	</body>
+</html>
